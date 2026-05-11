@@ -1,0 +1,12 @@
+# SQL Server database files
+*.bak
+*.mdf
+*.ldf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.suo
+*.user
